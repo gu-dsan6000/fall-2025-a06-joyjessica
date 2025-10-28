@@ -1,0 +1,11 @@
+log_entry,log_level
+17/06/08 13:34:03 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 300,INFO
+17/06/08 13:34:08 INFO storage.BlockManager: Found block rdd_21_2 locally,INFO
+"17/06/08 13:34:09 INFO python.PythonRunner: Times: total = 38, boot = 16, init = 22, finish = 0",INFO
+"17/06/08 13:34:11 INFO storage.MemoryStore: Block rdd_29_3 stored as bytes in memory (estimated size 16.0 B, free 442.3 KB)",INFO
+17/06/08 13:34:16 INFO executor.Executor: Finished task 20.0 in stage 29.0 (TID 1180). 2667 bytes result sent to driver,INFO
+17/06/08 13:34:16 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1208,INFO
+"17/06/08 13:34:18 INFO spark.CacheManager: Partition rdd_43_34 not found, computing it",INFO
+17/06/08 13:34:18 INFO storage.BlockManager: Found block rdd_43_35 locally,INFO
+17/06/08 13:34:21 INFO executor.Executor: Running task 28.0 in stage 37.0 (TID 1508),INFO
+"17/06/08 13:34:22 INFO python.PythonRunner: Times: total = 37, boot = 18, init = 19, finish = 0",INFO
